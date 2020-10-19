@@ -1,1 +1,0 @@
-tensorboard --logdir C:\tmp\retrain_logs

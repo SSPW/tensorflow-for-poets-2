@@ -1,5 +1,6 @@
-start chrome http://localhost:6006
+sleep 5
 tensorboard --logdir "C:\tmp\retrain_logs"
+
 
 
 
